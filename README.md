@@ -127,13 +127,12 @@ python employee_analysis.py
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-**Ashok Ummaka**
+**Ushasree**
 
-GitHub: https://github.com/uashok0424-pixel
-
-LinkedIn: https://www.linkedin.com/in/ashok-ummaka
+- **GitHub:** https://github.com/ushasree30
+- **LinkedIn:** https://www.linkedin.com/in/ushasree-telugu-58b96b2a5/
 
 ---
 
