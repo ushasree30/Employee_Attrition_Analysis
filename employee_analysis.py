@@ -3,8 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load Dataset
-df = pd.read_csv(r"C:\Users\TELUGU SREEVALLI\Desktop\Employee_Attrition_Analysis\WA_Fn-UseC_-HR-Employee-Attrition.csv")
-
+df = pd.read_csv("WA_Fn-UseC_-HR-Employee-Attrition.csv")
 # -----------------------------
 # BASIC INFORMATION
 # -----------------------------
